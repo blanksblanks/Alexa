@@ -1,0 +1,16 @@
+GetNewRhymeIntent a rhyme
+GetNewRhymeIntent a nursery rhyme
+GetNewRhymeIntent anything
+GetNewRhymeIntent a song
+GetNewRhymeIntent a chant
+GetNewRhymeIntent a poem
+GetNewRhymeIntent tell me a rhyme
+GetNewRhymeIntent tell me a nursery rhyme
+GetNewRhymeIntent tell me a song
+GetNewRhymeIntent tell me a chant
+GetNewRhymeIntent tell me a poem
+GetNewRhymeIntent give me a rhyme
+GetNewRhymeIntent give me a nursery rhyme
+GetNewRhymeIntent give me a song
+GetNewRhymeIntent give me a chant
+GetNewRhymeIntent give me a poem
