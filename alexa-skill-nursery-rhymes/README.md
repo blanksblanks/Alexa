@@ -1,4 +1,4 @@
-# Nursery Rhymer
+# Nursery Rhymes
 
 ![icon](metadata/APP_ICON_SMALL.png)
 
