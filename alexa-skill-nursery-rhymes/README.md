@@ -1,6 +1,6 @@
 # Nursery Rhymer
 
-![icon](alexa-skill-nursery-rhymes/metadata/APP_ICON_SMALL.png)
+![icon](metadata/APP_ICON_SMALL.png)
 
 #### Short Skill Description
 Nursery rhymes for good times!
